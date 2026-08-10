@@ -26,7 +26,6 @@ I built these with Claude while preparing for the exam, and passed in August 202
 | 5 | [Prompt engineering and structured output](volumes/05-prompt-engineering-and-structured-output.md) | Prompt / output | 20% |
 | 6 | [Tool design and MCP](volumes/06-tool-design-and-mcp.md) | Tools / MCP | 18% |
 | 7 | [Context management and reliability](volumes/07-context-management-and-reliability.md) | Context | 15% |
-| 8 | [Exam strategy and practice](volumes/08-exam-strategy-and-practice.md) | All | |
 
 All eight volumes are complete. Volume 8 has the consolidated trap list and practice questions.
 

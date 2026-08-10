@@ -22,13 +22,13 @@ I built these with Claude while preparing for the exam, and passed in August 202
 | 1 | [Orientation and core mental models](volumes/01-orientation-and-mental-models.md) | All | — |
 | 2 | [The agentic loop](volumes/02-the-agentic-loop.md) | Agent architecture | 27% |
 | 3 | [Multi-agent orchestration](volumes/03-multi-agent-orchestration.md) | Agent architecture | 27% |
-| 4 | Claude Code configuration | Claude Code | 20% |
-| 5 | Prompt engineering and structured output | Prompt / output | 20% |
-| 6 | Tool design and MCP | Tools / MCP | 18% |
-| 7 | Context management and reliability | Context | 15% |
-| 8 | Exam strategy and practice | All | — |
+| 4 | [Claude Code configuration](volumes/04-claude-code-configuration.md) | Claude Code | 20% |
+| 5 | [Prompt engineering and structured output](volumes/05-prompt-engineering-and-structured-output.md) | Prompt / output | 20% |
+| 6 | [Tool design and MCP](volumes/06-tool-design-and-mcp.md) | Tools / MCP | 18% |
+| 7 | [Context management and reliability](volumes/07-context-management-and-reliability.md) | Context | 15% |
+| 8 | [Exam strategy and practice](volumes/08-exam-strategy-and-practice.md) | All | — |
 
-*Volumes 4 to 8 are being added.*
+All eight volumes are complete. Volume 8 has the consolidated trap list and practice questions.
 
 ---
 

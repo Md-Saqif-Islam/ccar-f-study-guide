@@ -27,7 +27,7 @@ I built these with Claude while preparing for the exam, and passed in August 202
 | 6 | [Tool design and MCP](volumes/06-tool-design-and-mcp.md) | Tools / MCP | 18% |
 | 7 | [Context management and reliability](volumes/07-context-management-and-reliability.md) | Context | 15% |
 
-All eight volumes are complete. Volume 8 has the consolidated trap list and practice questions.
+All seven volumes are complete. Volume 8 has the consolidated trap list and practice questions.
 
 ---
 
